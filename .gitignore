@@ -27,3 +27,20 @@ Desktop.ini
 *.temp
 *.bak
 *.backup
+
+# AI Agent folders
+.claude/
+.codex/
+.cursor/
+.aider/
+.github-copilot/
+.codeium/
+.tabnine/
+.windsurf/
+
+# AI chat history and cache
+.ai/
+.llm/
+ai-conversations/
+*.claude-chat
+*.ai-context
